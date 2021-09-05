@@ -3,13 +3,13 @@
 ##### 🖥️ Tenho interesse em ser desenvolvedor web e atualmente estou estudando NodeJS
 <div>
   <!--Card de status-->
-  <img src="https://github-readme-stats.vercel.app/api?username=MarlonSdS&count_private=true&theme=tokyonight" height="190em" width="50%"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarlonSdS&count_private=true&theme=tokyonight" height="210em" width="50%"></img>
   <!--Card de linguagens-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonSdS&layout=compact&theme=tokyonight" height="190em" width="40%"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonSdS&layout=compact&theme=tokyonight" height="210em" width="40%"></img>
 </div>
 
 <!--Links para filtros de linguagens-->
-<div> <br>
+<div>
   <h4>Clique nas badges para ver meus repositórios destas respectivas linguagens</h4>
   <a href="https://github.com/MarlonSdS?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img></a>
   <a href="https://github.com/MarlonSdS?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img></a>
