@@ -18,5 +18,5 @@
 </div>
 <div class="certificados">
   <h4>Alguns certificados que possuo</h4>
-  <a href="./certificados/Certificado-NodeJs.pdf"><img src="./certificados/certificado-nodejs.png" alt="NodeJs(Udemy)"></img></a>
+  <a href="Certificado-NodeJs.pdf"><img src="certificado-nodejs.png" alt="NodeJs(Udemy)" height="80em"></img></a>
 </div>
