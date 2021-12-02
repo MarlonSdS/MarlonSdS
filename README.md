@@ -16,3 +16,7 @@
   <a href="https://github.com/MarlonSdS?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img></a>
   <a href="https://github.com/MarlonSdS?tab=repositories&q=&type=&language=php&sort="><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img></a>
 </div>
+<div class="certificados">
+  <h4>Alguns certificados que possuo</h4>
+  <a href="./certificados/Certificado-NodeJs.pdf"><img src="./certificados/certificado-nodejs.png" alt="NodeJs(Udemy)"></img></a>
+</div>
