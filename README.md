@@ -1,6 +1,6 @@
 ### 👋 Oi! Eu sou o Marlon dos Santos! 
 ##### 🎓 Atualmente estou cursando o último semestre de Anásile e Desenvovimento de Sistemas na UniVS
-##### 🖥️ Tenho interesse em ser desenvolvedor web e atualmente estou estudando NodeJS
+##### 🖥️ Tenho interesse em ser desenvolvedor web e atualmente estou estudando Python
 <div>
   <!--Card de status-->
   <img src="https://github-readme-stats.vercel.app/api?username=MarlonSdS&count_private=true&theme=tokyonight" height="210em" width="50%"></img>
