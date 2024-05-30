@@ -1,5 +1,5 @@
 ### 👋 Oi! Eu sou o Marlon dos Santos! 
-##### 🎓 Atualmente estou cursando o último semestre de Anásile e Desenvovimento de Sistemas na UniVS
+##### 🎓 Sou formado em Anásile e Desenvovimento de Sistemas na UniVS
 ##### 🖥️ Tenho interesse em ser desenvolvedor web e atualmente estou estudando Python
 <div>
   <!--Card de status-->
@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonSdS&layout=compact&theme=tokyonight" height="210em" width="40%"></img>
 </div>
 
-<!--Links para filtros de linguagens-->
+<!--Links para filtros de linguagens
 <div>
   <h4>Clique nas badges para ver meus repositórios destas respectivas tecnologias</h4>
   <a href="https://github.com/MarlonSdS?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img></a>
@@ -19,4 +19,4 @@
 <div class="certificados">
   <h4>Alguns certificados que possuo</h4>
   <a href="Certificado-NodeJs.pdf"><img src="certificado-nodejs.png" alt="NodeJs(Udemy)" height="80em"></img></a>
-</div>
+</div>-->
